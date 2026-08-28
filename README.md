@@ -16,4 +16,3 @@ I work on software where correctness, maintainability, privacy, and reproducible
 My current interests are ML systems, data platforms, backend infrastructure, software architecture, and reproducible research. I am developing deeper expertise in distributed systems and vector databases, with an emphasis on explicit contracts, testable invariants, and evidence that can be independently reproduced.
 
 I am based in Quito, Ecuador, and interested in collaborating on ML-systems, data-engineering, backend, infrastructure, and research-engineering work.
-
