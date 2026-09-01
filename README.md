@@ -1,6 +1,6 @@
 # Roberto Villafuerte
 
-**AI & Data Systems Engineer. Building & Explaining AI + Data Systems.**
+**Applied AI Engineer. Building & Explaining AI + Data Systems.**
 
 I work on software where correctness, maintainability, privacy, and reproducible evaluation matter. At COMPUMAX, I help translate product and data requirements into system architecture, data flows, backend services, and implementation plans. I am also completing my Computer Science degree at Universidad San Francisco de Quito.
 
